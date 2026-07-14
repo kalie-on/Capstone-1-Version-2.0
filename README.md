@@ -20,4 +20,4 @@ The goal of Version 2.0 is to make the original analysis more interactive, visua
 * Marenza Santarin
 * Malaika Tariq
 * Dimitri Nji
-* Ndifon Caleb Ndakina
+* Ndifon Caleb Ndakina.
